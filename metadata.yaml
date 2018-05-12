@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3703
     wikipedia: http://en.wikipedia.org/wiki/Ulysse_Chevalier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15582#Chartvlarivm-Ecclesiae-Sancti-Petri-de-Bvrgo-Valentiae-Ordinis-Sancti-Avgvstini
 gutenberg_issued: '2005-04-08'
 gutenberg_type: Text
 identifiers:
