@@ -1,0 +1,34 @@
+_repo: Chartvlarivm-Ecclesiae-Sancti-Petri-de-Bvrgo-Valentiae-Ordinis-Sancti-Avgvstini_15582
+_version: 0.1.0
+alternative_title: Chartularium Ecclesiae Sancti Petri de Burgo Valentiae Ordinis
+  Sancti Augustini
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chevalier, Ulysse
+    aliases:
+    - Chevalier, Cyr Ulysse Joseph
+    - Chevalier, C.-U.-J. (Cyr-Ulysse-Joseph)
+    birthdate: 1841
+    deathdate: 1923
+    gutenberg_agent_id: '3703'
+    url: http://www.gutenberg.org/2009/agents/3703
+    wikipedia: http://en.wikipedia.org/wiki/Ulysse_Chevalier
+description: ''
+gutenberg_issued: '2005-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15582'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Augustinians -- France -- Charters'
+- !lcsh 'Cartularies -- France'
+- !lcsh 'Valence (Drôme, France) -- History -- Sources'
+title: Chartvlarivm Ecclesiae Sancti Petri de Bvrgo Valentiae Ordinis Sancti Avgvstini
+url: http://www.gutenberg.org/ebooks/15582
